@@ -1,0 +1,91 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar {
+  margin-bottom: 0;
+}
+
+.cover {
+  background-image: url('../img/site_showcase_bg.jpg');
+  color: white;
+  overflow: hidden;
+  padding-top: 40px;
+}
+
+.cover h1 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top:100px;
+  margin-bottom: 10px;
+}
+.cover p {
+  font-size: 20px;
+  font-weight: bold;
+}
+.cover h1 span {
+  color: #1caa98;
+}
+.cover img {
+  margin-top: 30px;
+}
+.mobile {
+  margin-top: 20px;
+  margin-bottom: 15px;
+  padding: 0 10px;
+}
+.mobile .col-md-4 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.mobile .col-md-4 img {
+
+}
+.mobile .col-md-4 h3 {
+  font-size: 35px;
+  font-weight: bold; 
+}
+.mobile .col-md-4 p {
+  font-size: 18px;
+}
+.mobile .col-md-4 button {
+  background-color: 
+}
+.features {
+  background-color: #00AD95;
+}
+.feature .col-xs {
+  height: 100vh;
+}
+.features h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+}
+.features li{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 45px;
+}
+.glyphicon-camera {
+  font-size: 230px;
+}
+.footer {
+  background-color: #353535;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.footer a  {
+  color: white;
+}
+.footer{
+  text-align: center;
+}
+.footer col-md-6 li{
+  text-align: left;
+}
+.footer col-xs-12-6 p {
+  text-align: right;
+}

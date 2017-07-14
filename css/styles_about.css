@@ -1,0 +1,85 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.navbar {
+  margin-bottom: 0;
+}
+.title {
+  background-color: #00AD95;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.title h1 {
+  
+}
+.interproof {
+  padding-bottom: 30px;
+}
+
+.interproof h3 {
+  margin-top: 30px;
+  font-size: 38px;
+  font-weight: bold;
+}
+.interproof p {
+  font-size: 18px; 
+}
+.interproof img {
+  margin-top: 30px;
+}
+.interproof img p {
+  margin-bottom: 30px;
+}
+#accordion {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+#accordion .panel-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+#accordion .panel-body {
+  font-size: 16px;
+  line-height: 25px;
+}
+.features {
+  padding-top: 20px;
+  background-color: #00AD95;
+}
+.feature .col-xs {
+  height: 100vh;
+}
+.features h2 {
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 60px;
+}
+.features li{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 45px;
+}
+.glyphicon-camera {
+  font-size: 230px;
+}
+.footer {
+  background-color: #353535;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.footer a  {
+  color: white;
+}
+.footer{
+  text-align: center;
+}
+.footer col-md-6 li{
+  text-align: left;
+}
+.footer col-xs-12-6 p {
+  text-align: right;
+}
